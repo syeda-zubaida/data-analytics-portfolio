@@ -21,7 +21,7 @@ Built an interactive Power BI dashboard to analyze revenue, bookings, occupancy,
 
 **Tools:** Power BI, Power Query, DAX, Data Modelling
 
-### 2. Hospital Management System | SQL
+### 2. [Hospital Management System | SQL](https://github.com/syeda-zubaida/hospital-management-system-sql)
 Designed an 8-table relational MySQL database and analyzed hospital operations using joins, CTEs, aggregations, subqueries, and window functions.
 
 **Tools:** MySQL, MySQL Workbench, SQL
