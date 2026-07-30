@@ -36,7 +36,7 @@ Analyzed approximately 15,000 marketing campaign records using data cleaning, Pi
 
 **Tools:** Microsoft Excel, PivotTables, Dashboarding
 
-### 5. Airbnb Regression Analysis | Machine Learning
+### 5. [Airbnb Regression Analysis | Machine Learning](https://github.com/syeda-zubaida/airbnb-regression-analysis)
 Prepared and analyzed 48,895 Airbnb listings and compared Linear, Polynomial, Ridge, and Lasso regression models for price prediction.
 
 **Tools:** Python, Pandas, Scikit-learn, Regression Analysis
