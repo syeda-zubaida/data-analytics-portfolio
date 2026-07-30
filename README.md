@@ -31,7 +31,7 @@ Cleaned and analyzed 18,232 property listings across 55 cities to explore sale a
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
 
-### 4. Social Media Marketing Analytics | Excel
+### 4. [Social Media Marketing Analytics | Excel](https://github.com/syeda-zubaida/social-media-marketing-excel)
 Analyzed approximately 15,000 marketing campaign records using data cleaning, PivotTables, calculated metrics, and dashboard reporting.
 
 **Tools:** Microsoft Excel, PivotTables, Dashboarding
