@@ -26,7 +26,7 @@ Designed an 8-table relational MySQL database and analyzed hospital operations u
 
 **Tools:** MySQL, MySQL Workbench, SQL
 
-### 3. Pakistan Real Estate Market Analysis | Python
+### 3. [Pakistan Real Estate Market Analysis | Python](https://github.com/syeda-zubaida/pakistan-real-estate-eda)
 Cleaned and analyzed 18,232 property listings across 55 cities to explore sale and rental activity, property types, and real estate market patterns.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
