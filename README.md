@@ -16,7 +16,7 @@ This portfolio contains practical data analytics projects completed during my Da
 
 ## Featured Projects
 
-### 1. Airbnb Booking Analytics Dashboard | Power BI
+### 1. [Airbnb Booking Analytics Dashboard | Power BI](https://github.com/syeda-zubaida/airbnb-power-bi-analytics)
 Built an interactive Power BI dashboard to analyze revenue, bookings, occupancy, average booking value, guest ratings, and monthly performance.
 
 **Tools:** Power BI, Power Query, DAX, Data Modelling
